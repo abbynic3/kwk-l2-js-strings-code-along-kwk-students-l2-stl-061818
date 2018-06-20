@@ -3,4 +3,4 @@ const currentUser = 'Abby Lortz';
 
 const welcomeMessage = 'Welcome to Klossybook, ';
 
-const welcomeMessage = currentUser;
+let welcomeMessage = currentUser;
