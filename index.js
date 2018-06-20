@@ -2,3 +2,5 @@
 const currentUser = 'Abby Lortz';
 
 const welcomeMessage = `Welcome to Klossybook, ${currentUser}!`;
+
+const excitedWelcomeMessage = welcomeMessage.toUpperCase();
